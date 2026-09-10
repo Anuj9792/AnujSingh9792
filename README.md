@@ -6,11 +6,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **CAPS Portal**
-- 💻 Building **React & Next.js Applications**
-- 🎨 Passionate about **UI/UX Design**
-- 🚀 Goal: Become a **Full Stack Developer**
-
+- 🚀 Software Developer at FindiBANKIT
+- 💻 Building applications using React.js & Next.js
+- ☕ Developing backend services using Java & Spring Boot
+- 🔗 Working with REST APIs and SQL databases
+- 🎨 Passionate about clean UI/UX and scalable applications
+- 🌱 Currently improving my skills in Spring Boot & Microservices
+- 🎯 Goal: Become a Full Stack Developer
 ---
 
 ## 🛠️ Tech Stack
